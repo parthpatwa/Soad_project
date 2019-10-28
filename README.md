@@ -1,6 +1,7 @@
 Storify
 
 A platform to read, write stories.
+features : genre tagging, story auto complete.
 Team Members:
 
 1. Bhavana Talluri - S20170010025
