@@ -1,6 +1,6 @@
 Storify
 
-
+A platform to read, write stories.
 Team Members:
 
 1. Bhavana Talluri - S20170010025
